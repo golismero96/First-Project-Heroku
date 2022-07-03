@@ -26,7 +26,7 @@ SECRET_KEY = 'f7h$#)wmdo-26)8h42j#q*8dhh2gujt0_$odb=n81$+2yd(v5-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'soldan.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'soldan.herokuapp.com', 'pothus.herokuapp.com']
 
 
 # Application definition
